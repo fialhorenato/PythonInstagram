@@ -1,0 +1,4 @@
+# Do not get any compiled
+
+*.pyc
+/.vscode
