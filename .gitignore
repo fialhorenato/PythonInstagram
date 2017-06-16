@@ -1,4 +1,10 @@
 # Do not get any compiled
 
 *.pyc
+
+# VSCode Project Folder
 /.vscode
+
+#MIT LICENSE
+
+LICENSE
